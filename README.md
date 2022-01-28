@@ -16,6 +16,7 @@
 <div>
   <img  alt="Laravel" src="https://img.shields.io/badge/laravel-%2343853D.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img  alt="Livewire" src="https://img.shields.io/badge/livewire-%23593d88.svg?style=for-the-badge&logo=livewire&logoColor=white"/>
+  <img  alt="Interia JS" src="https://img.shields.io/badge/inertia-js-%231572B6.svg?style=for-the-badge&logo=inertia&logoColor=white"/>
   <img  alt="MySQL" src="https://img.shields.io/badge/mysql-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img  alt="Docker" src ="https://img.shields.io/badge/docker-%234ea94b.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img  alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>  
