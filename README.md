@@ -2,13 +2,6 @@
 
 > Hardworking and Passionate developer. Love building project ranging from frontend all the way to backend
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=st693ava&show_icons=true&theme=radical"/>
-
-</div>
-
-<br>
-
 ## Technologies currently using
 
 ### Backend
