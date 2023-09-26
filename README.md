@@ -1,6 +1,7 @@
 # Hi there 👋, I am Pedro Saraiva a Full Stack Developer
 
-> Hardworking and Passionate developer. Love building project ranging from frontend all the way to backend
+> Hardworking and Passionate developer.
+> It works on my machine. Use Docker to make it works on yours.
 
 ## Technologies currently using
 
